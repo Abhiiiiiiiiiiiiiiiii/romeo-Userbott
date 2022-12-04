@@ -10,7 +10,7 @@ ALIVE_PIC = getenv("ALIVE_PIC", "https://telegra.ph/file/a62b9c7d9848afde0569e.j
 ALIVE_TEXT = getenv("ALIVE_TEXT", "ʀᴏᴍᴇᴏʙᴏᴛ")
 PM_LOGGER = getenv("PM_LOGGER", "-842702570")
 LOG_GROUP = getenv("LOG_GROUP", "-842702570")
-GIT_TOKEN = getenv("GIT_TOKEN") #personal access token
+GIT_TOKEN = getenv("GIT_TOKEN", "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") #personal access token
 REPO_URL = getenv("REPO_URL", "https://github.com/Romeo-RJ/ROMEO-USERBOT")
 BRANCH = getenv("BRANCH", "master") #don't change
  
